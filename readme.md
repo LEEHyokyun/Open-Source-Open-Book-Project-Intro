@@ -6,7 +6,7 @@
 
 반복되는 출석 관리 및 운영 작업을 줄이기 위한 프로젝트입니다.
 
-🔗 GitHub Repository
+🔗 깃허브 링크
 → https://github.com/LEEHyokyun/igloo
 
 <br/>
@@ -15,10 +15,10 @@
 
 단순한 기술 정리가 아닌, 백엔드 엔지니어링에 대해 고민하고 학습한 내용들을 기록, 공유하기 위한 프로젝트입니다.
 
-🔗 GitBook
+🔗 깃북 링크
 → https://leehyokyun.gitbook.io/openbook
 
-🔗 GitHub Repository
+🔗 깃허브 링크
 → https://github.com/LEEHyokyun/openbook
 
 <br/>
